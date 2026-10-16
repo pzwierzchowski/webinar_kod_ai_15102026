@@ -1,0 +1,12 @@
+{
+  "name": "tapsshop-cypress-e2e",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^15.5.0"
+  }
+}
